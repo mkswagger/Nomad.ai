@@ -82,8 +82,9 @@ Nomad.ai employs a diverse set of AI tools to effectively eliminate linguistic a
 ## Implementation of Nomad.ai 🎇
 
 #### Home Page View
+<img width="1383" alt="Screenshot 2024-05-07 at 1 46 18 PM" src="https://github.com/mkswagger/Nomad.ai/assets/34826479/93926030-3c4a-40f6-a620-294c28de7deb">
 
-![WhatsApp Image 2024-01-28 at 14 19 28_ac27fe53](https://github.com/trisha-thakur/Raasta/assets/107291403/69780779-e83e-4674-8482-fe7736ae240a)
+
 
 ### Chatbot with Language Support
 
