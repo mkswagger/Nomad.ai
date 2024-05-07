@@ -18,10 +18,10 @@ const Home = () => {
         className="bg-fixed rounded-lg p-5 text-center"
         style={{ backgroundColor: "rgba(0, 0, 0, 0.6)" }}
       >
-        <h1 className="text-4xl md:text-8xl text-white">RAASTA</h1>
+        <h1 className="text-4xl md:text-8xl text-white">Nomad.ai</h1>
       </div>
       <div className="flex text-white space-x-4 mt-5">
-        <Button onClick={toggleChatbot}>Chat with Raasta</Button>
+        <Button onClick={toggleChatbot}>Chat with Nomad.ai</Button>
       </div>
       {showUpdates && <Updates />}
       {showChatbot && <Chatbot onClose={() => setShowChatbot(false)} />}

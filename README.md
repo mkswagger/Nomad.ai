@@ -1,11 +1,11 @@
-# Raasta - Bridging the gap between languages and travel. 🛺
+# Nomad.ai - Bridging the gap between languages and travel. 🛺
 
 ## Problem Statement 📚
 
 In bustling cities, such as those in India, transportation apps encounter challenges in providing quick and effective solutions due to diverse languages spoken by the users. Moreover, there is a significant issue related to transparent cost estimates for individuals with budget constraints.
 
 ## Our Solution 📱
-Raasta employs a diverse set of AI tools to effectively eliminate linguistic and economic barriers in the realm of urban mobility. With this innovative solution, users can effortlessly access real-time traffic advisories in their preferred language. Furthermore, Raasta goes a step further by providing personalized route suggestions based on the user's budget, ensuring a seamless and cost-effective travel experience
+Nomad.ai employs a diverse set of AI tools to effectively eliminate linguistic and economic barriers in the realm of urban mobility. With this innovative solution, users can effortlessly access real-time traffic advisories in their preferred language. Furthermore, Nomad.ai goes a step further by providing personalized route suggestions based on the user's budget, ensuring a seamless and cost-effective travel experience
 
 ## Key Features 🤖
 
@@ -79,7 +79,7 @@ Raasta employs a diverse set of AI tools to effectively eliminate linguistic and
 - OCR models for image to text
 
 
-## Implementation of Raasta 🎇
+## Implementation of Nomad.ai 🎇
 
 #### Home Page View
 
@@ -183,29 +183,4 @@ Before you proceed with the setup, ensure that you have the following prerequisi
 - [Python](https://www.python.org/) (version 3.7 or higher)
 - [pip](https://pip.pypa.io/en/stable/)
 - [Git](https://git-scm.com/)
-
-### Clone Raasta Repository
-1. Open your terminal or command prompt.
-2. Navigate to the directory where you want to clone the Raasta repository.
-3. Run the following command to clone the repository:
-
-   ```bash
-   git clone https://github.com/trisha-thakur/Raasta.git
-
-
-### Setup Virtual Environment (Optional but Recommended)
-Navigate into the Raasta directory:
-
-`cd Raasta` - navigate to current repository
-`python -m venv venv` - create venv
-`venv\Scripts\activate` - activate env
-
-`source venv/bin/activate` activation command in mac or linux systems
-
-### Install the required dependencies:
-
-`pip install -r requirements.txt`
-
-
- 
 

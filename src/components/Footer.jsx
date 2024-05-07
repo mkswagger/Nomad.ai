@@ -2,10 +2,8 @@ import React from "react";
 
 const Footer = () => {
   const teamMembers = [
-    { name: "Trisha Sharan Thakur ● ", github: "https://github.com/trisha-thakur" },
-    { name: "Mathangy K ● ", github: "https://github.com/mkswagger" },
-    { name: "Anouska Jhunjhunwala ● ", github: "https://github.com/AnouskaJ" },
-    { name: "Devanshi Agrawal", github: "https://github.com/ZYDNET" },
+    { name: "Team Binary Bosses ", github: "https://github.com/mkswagger/Nomad.ai" },
+    
   ];
 
   return (
